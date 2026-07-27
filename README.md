@@ -6,4 +6,4 @@
 
 ## 📄 Project Report
 
-📑 [View the Project Report](Bekal_Fort_Safety_Agent_Assignment_v2(1).docx)
+📑 [View the Project Report](Bekal_Fort_Safety_Agent_Assignment_v2 (1).docx)
